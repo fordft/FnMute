@@ -1,0 +1,40 @@
+FN MUTE — FREE AND OPEN SOURCE
+https://github.com/fordft/FnMute
+MIT License
+
+INSTALL
+1. Drag Fn Mute.app into Applications.
+2. Open Fn Mute from Applications once.
+3. Enable Fn Mute in System Settings > Privacy & Security > Input Monitoring.
+   If macOS asks, choose Quit & Reopen.
+
+Launch at Login is enabled automatically on first launch from Applications.
+After restarting your Mac and signing in, Fn Mute opens in the menu bar.
+You can disable this with the Launch at Login item in its menu.
+If macOS requires approval for the login item, the app's menu provides
+Open Login Items Settings.
+
+FIRST-LAUNCH SECURITY NOTICE
+This release is ad hoc signed and is not notarized with an Apple Developer ID.
+If macOS blocks it, follow Apple's instructions to allow this specific app:
+https://support.apple.com/guide/mac-help/mh40616/mac
+System Settings > Privacy & Security > Open Anyway may be required.
+
+USE
+Hold Fn to mute sound. Release Fn to restore the previous sound settings.
+The speaker + Fn icon in the menu bar shows that the app is running.
+The microphone is never muted. No audio, typed text, or other keys are collected.
+Fn Mute uses no network connection.
+
+REQUIREMENTS
+macOS 13 Ventura or later. Supports Apple Silicon and Intel Macs.
+A keyboard that reports the Apple Fn/Globe key to macOS is required.
+Outputs without system mute/volume controls, including some HDMI displays,
+cannot be muted. The app's menu explains this when encountered.
+
+REMOVE
+Turn off Launch at Login, quit Fn Mute, and move the app to Trash.
+
+SOURCE, ISSUES, AND RELEASES
+https://github.com/fordft/FnMute
+https://github.com/fordft/FnMute/releases
